@@ -3,7 +3,6 @@ Advanced AI-Powered Stock Analysis & Prediction Platform using Machine Learning.
 
 ![AI StockBot Pro](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 🌟 Features
 
