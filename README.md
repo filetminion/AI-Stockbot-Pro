@@ -94,7 +94,9 @@ NEWSAPI_KEY = "your_api_key_here"
 
 ## 📁 Project Structure
 
-AI-StockBot-Pro/
+
+### Project Structure
+```bash
 ├── app.py                      # Main Streamlit application
 ├── scripts/
 │   ├── news_fetcher.py        # News and sentiment fetching
@@ -107,7 +109,8 @@ AI-StockBot-Pro/
 ├── .gitignore                 # Git ignore rules
 └── README.md        
 
-
+```
+       
 
 ## 🤝 Contributing
 
