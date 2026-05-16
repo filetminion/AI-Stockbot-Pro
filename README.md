@@ -93,3 +93,16 @@ NEWSAPI_KEY = "your_api_key_here"
 ```
 
 ## 📁 Project Structure
+
+AI-StockBot-Pro/
+├── app.py                      # Main Streamlit application
+├── scripts/
+│   ├── news_fetcher.py        # News and sentiment fetching
+│   ├── gru_model.py           # GRU neural network model
+│   ├── finbert_sentiment.py   # FinBERT sentiment analysis
+│   └── predictor.py           # Random Forest predictor
+├── .streamlit/
+│   └── config.toml            # Streamlit configuration
+├── requirements.txt           # Python dependencies
+├── .gitignore                 # Git ignore rules
+└── README.md                  
