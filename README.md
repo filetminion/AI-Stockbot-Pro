@@ -105,4 +105,36 @@ AI-StockBot-Pro/
 │   └── config.toml            # Streamlit configuration
 ├── requirements.txt           # Python dependencies
 ├── .gitignore                 # Git ignore rules
-└── README.md                  
+└── README.md        
+
+
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+## ⚠️ Disclaimer
+
+This tool is for educational and research purposes only. Do not use it for actual trading decisions. The predictions are not financial advice. Always do your own research and consult with financial professionals before making investment decisions.
+
+## 👤 Author
+
+**Khadija Sajid**
+- FAST-NUCES Lahore
+- BS Fintech Student
+
+## 🙏 Acknowledgments
+
+- Built with Streamlit
+- Market data from Yahoo Finance (yfinance)
+- News sentiment from NewsAPI
+- AI models using TensorFlow and PyTorch
+
+## 📧 Contact
+
+For questions or feedback, please open an issue on GitHub.
+
+---
+
+⭐ Star this repo if you find it helpful!
